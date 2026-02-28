@@ -1,0 +1,5 @@
+{
+  "name": "Fibo Rebound MT5 EA",
+  "description": "Professional MT5 Expert Advisor generator and visualizer based on the Fibo Rebound (0.50–0.618) strategy.",
+  "requestFramePermissions": []
+}
