@@ -313,7 +313,7 @@ export default function App() {
                   <span className="text-xs font-mono text-slate-500">XAUUSD / M1</span>
                 </div>
                 <img 
-                  src="https://drive.google.com/uc?export=view&id=1CLr1gr-kFmHj4TtmX5a9urWOCbexflHb" 
+                  src="https://lh3.googleusercontent.com/d/1CLr1gr-kFmHj4TtmX5a9urWOCbexflHb" 
                   alt="Equity Curve" 
                   className="w-full h-auto"
                   referrerPolicy="no-referrer"
@@ -327,7 +327,7 @@ export default function App() {
                     <h3 className="font-bold text-white">Estadísticas de Rendimiento</h3>
                   </div>
                   <img 
-                    src="https://drive.google.com/uc?export=view&id=1413IUD3IaGEMJFAb9uWyE7J7BhMs3iEp" 
+                    src="https://lh3.googleusercontent.com/d/1413IUD3IaGEMJFAb9uWyE7J7BhMs3iEp" 
                     alt="Stats Summary" 
                     className="w-full h-auto"
                     referrerPolicy="no-referrer"
@@ -340,7 +340,7 @@ export default function App() {
                     <h3 className="font-bold text-white">Distribución de Ganancias</h3>
                   </div>
                   <img 
-                    src="https://drive.google.com/uc?export=view&id=1ZpjHUOYQv54MzbvQiqzjVSUbjmaNPVvC" 
+                    src="https://lh3.googleusercontent.com/d/1ZpjHUOYQv54MzbvQiqzjVSUbjmaNPVvC" 
                     alt="Distribution" 
                     className="w-full h-auto"
                     referrerPolicy="no-referrer"
@@ -354,7 +354,7 @@ export default function App() {
                   <h3 className="font-bold text-white">Análisis de Correlación y Riesgo</h3>
                 </div>
                 <img 
-                  src="https://drive.google.com/uc?export=view&id=1v-D0041_VJLV1UnyzXWL0lAj6nCTdiCH" 
+                  src="https://lh3.googleusercontent.com/d/1v-D0041_VJLV1UnyzXWL0lAj6nCTdiCH" 
                   alt="Correlation" 
                   className="w-full h-auto"
                   referrerPolicy="no-referrer"
